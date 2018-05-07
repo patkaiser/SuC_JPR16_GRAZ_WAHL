@@ -1,15 +1,14 @@
-# Scripting und Coding
+# Scripting and Coding
 
-Das ist ein Projekt der FH JOANNEUM Studiengang Journalismus und PR.
+A project run by students of the degree programm "Journalism and Public Relation (PR)" at FH JOANNEUM Graz, Austria.
 
-Das Thema unserer Arbeit ist eine Darstellung der Gemeinderatswahlergebnisse der Stadt Graz in den Jahren 2012 und 2017.
+The topic of our project is a presentation of the results from the Graz city council elections 2012 and 2017.
 
-Die Teammitglieder sind:
-
-* Julia Czipoth
-* Patrick Kaiser
-* Benjamin Lorenzer
-* Philipp Seiser
-* Marco Steurer
+Team members:
+* Julia Czipoth (julia.czipoth@edu.fh-joanneum.at)
+* Patrick Kaiser (patrick.kaiser@edu.fh-joanneum.at)
+* Benjamin Lorenzer (benjamin.lorenzer@edu.fh-joanneum.at)
+* Philipp Seiser (philipp.seiser@edu.fh-joanneum.at)
+* Marco Steurer (marco.steurer@edu.fh-joanneum.at)
 
 
